@@ -41,5 +41,5 @@ const Gu = {
 
 <!-- Footer -->
 <p align="center">
-  <em>Made by Gustavo (Coffee-Gutts)</em>
+  <em>Made by Gustavo (gustavoAbramo)</em>
 </p>
