@@ -39,7 +39,3 @@ const Gu = {
   <img src="https://nirzak-streak-stats.vercel.app/?user=gustavoAbramo&theme=dark&hide_border=true" alt="Streak Stats" /> <br>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <em>Made by Gustavo (gustavoAbramo)</em>
-</p>
