@@ -8,9 +8,9 @@ Seja bem vindo(a)!
 const Gu = {
  name: "Gustavo Abramo",
  
- education: ["Articulação medio e superior (AMS) com tecnico em DS- ETEC - Araras/SP"],
+ education: ["Analise e Desenvolvimento de Sistemas (ADS) - FATEC - Araras/SP"],
  
- currentMainSkill: "JS",
+ currentMainSkill: "TS",
  
  loveLanguages = ["Java", "JavaScript"],
  
