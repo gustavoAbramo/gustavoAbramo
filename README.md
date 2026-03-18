@@ -1,22 +1,6 @@
-## Olá 👋
-
-Seja bem vindo(a)!
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre Mim
-
-``` javascript
-const Gu = {
- name: "Gustavo Abramo",
+# Gustavo Abramo 
  
- education: ["Analise e Desenvolvimento de Sistemas (ADS) - FATEC - Araras/SP"],
- 
- currentMainSkill: "TS",
- 
- loveLanguages = ["Java", "JavaScript"],
- 
- loveTopics = ["Programming", "books", "Management"]
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoAbramo/)](https://www.linkedin.com/in/gustavoAbramo/) 
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabramooo@gmail.com)](mailto:gustavoabramooo@gmail.com) 
 
-}
-```
-## **Linguagens e Ferramentas:**  
 ![Stack](https://skillicons.dev/icons?i=java,spring,postgres,aws,azure,mysql,typescript,docker&theme=light)
