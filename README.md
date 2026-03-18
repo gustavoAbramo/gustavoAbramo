@@ -19,4 +19,4 @@ const Gu = {
 }
 ```
 ## **Linguagens e Ferramentas:**  
-![Stack](https://skillicons.dev/icons?i=java,spring,postgres,mysql,typescript,docker&theme=light)
+![Stack](https://skillicons.dev/icons?i=java,spring,postgres,aws,azure,mysql,typescript,docker&theme=light)
