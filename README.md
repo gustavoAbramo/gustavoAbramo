@@ -1,7 +1,7 @@
 # Gustavo Abramo 
  
 [![Gmail Badge](https://img.shields.io/badge/-gustavoabramooo@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabramooo@gmail.com)](mailto:gustavoabramooo@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-gustavo-abramo-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=gustavo-abramo)](gustavo-abramo) 
+[![LinkedIn Badge](https://img.shields.io/badge/-gustavo--abramo-00875f?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-abramo/)
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend e integração de sistemas. Tenho experiência prática com tecnologias como Node.js, React e APIs REST, além de conhecimento em bancos de dados e utilização de cloud (AWS e Azure). Busco constantemente evoluir minhas habilidades por meio de projetos e estudos, com interesse em trabalhar com soluções escaláveis e bem estruturadas.
 
