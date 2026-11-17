@@ -9,6 +9,7 @@ Entre meus principais projetos está o SmartStorage, uma plataforma web para ges
 
 Também desenvolvi o EstacionaFácil, uma API REST para gerenciamento de estacionamento, criada durante um hackathon, utilizando Node.js, Prisma e arquitetura MVC, com testes e documentação da API.
 
-![Stack](https://skillicons.dev/icons?i=java,spring,postgres,aws,mysql,typescript,nest,docker&theme=light)
+![Stack](https://skillicons.dev/icons?i=java,spring,github,git,postgres,aws,mysql,typescript,react,nest,postman,docker&theme=light)
+
 
 
